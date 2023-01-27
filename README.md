@@ -154,7 +154,10 @@ h1{
 ```
 ## OUTPUT:
 ![OUTPUT](./calc.png)
+
 ## HTML VALIDATOR:
 ![HTML VALIDATOR](./valid3.png)
+
+
 ## RESULT:
 the program for desinging a calculator using javascript has been successfully executed.
